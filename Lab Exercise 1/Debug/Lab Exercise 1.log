@@ -1,0 +1,11 @@
+﻿  UnorderedArray.cpp
+c:\users\gameuser.l216c202\documents\data stuctures and algorithms\lab exercise 1\lab exercise 1\unorderedarray.cpp(127): error C2065: 'i': undeclared identifier
+  c:\users\gameuser.l216c202\documents\data stuctures and algorithms\lab exercise 1\lab exercise 1\unorderedarray.cpp(124): note: while compiling class template member function 'int UnorderedArray<int>::search(T)'
+          with
+          [
+              T=int
+          ]
+  c:\users\gameuser.l216c202\documents\data stuctures and algorithms\lab exercise 1\lab exercise 1\unorderedarray.cpp(119): note: see reference to class template instantiation 'UnorderedArray<int>' being compiled
+c:\users\gameuser.l216c202\documents\data stuctures and algorithms\lab exercise 1\lab exercise 1\unorderedarray.cpp(129): error C2065: 'i': undeclared identifier
+c:\users\gameuser.l216c202\documents\data stuctures and algorithms\lab exercise 1\lab exercise 1\unorderedarray.cpp(131): error C2065: 'i': undeclared identifier
+c:\users\gameuser.l216c202\documents\data stuctures and algorithms\lab exercise 1\lab exercise 1\unorderedarray.cpp(134): error C2181: illegal else without matching if
